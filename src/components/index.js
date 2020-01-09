@@ -5,7 +5,6 @@ import ColumnsComponent from './columns/Columns';
 import Component from './_classes/component/Component';
 import ContainerComponent from './container/Container';
 import ContentComponent from './content/Content';
-import CurrencyComponent from './currency/Currency';
 import DataGridComponent from './datagrid/DataGrid';
 import DataMapComponent from './datamap/DataMap';
 import DateTimeComponent from './datetime/DateTime';
@@ -52,7 +51,6 @@ export default {
   columns: ColumnsComponent,
   container: ContainerComponent,
   content: ContentComponent,
-  currency: CurrencyComponent,
   datagrid: DataGridComponent,
   datamap: DataMapComponent,
   datetime: DateTimeComponent,
